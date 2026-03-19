@@ -14,7 +14,7 @@ export default function App() {
       <div className="flex gap-4 mt-8">
         <TeamCard name="pekka" role="Son" />
         <TeamCard name="matti" role="Father" />
-        <TeamCard name="Saara " role="Mother" />
+        <TeamCard name="Saaraa" role="Mother" />
       </div>
 
     </div>
